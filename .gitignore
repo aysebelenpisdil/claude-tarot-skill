@@ -1,0 +1,4 @@
+references/books/*
+!references/books/README.md
+__pycache__/
+.DS_Store

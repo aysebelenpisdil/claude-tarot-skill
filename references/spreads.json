@@ -1,0 +1,109 @@
+[
+  {
+    "id": "daily-one",
+    "name": "Daily One Card",
+    "cards": 1,
+    "description": "The macro energy of the day as a psychological mirror.",
+    "positions": [
+      {"name": "Energy of the Day", "meaning": "The dominant energy and inner theme accompanying you today"}
+    ]
+  },
+  {
+    "id": "cause-effect",
+    "name": "Cause and Effect",
+    "cards": 3,
+    "description": "A cause-to-effect narrative for a concrete situation, ending in actionable advice.",
+    "positions": [
+      {"name": "Cause", "meaning": "The root dynamic that created the current situation"},
+      {"name": "Effect", "meaning": "How that dynamic manifests in the situation now"},
+      {"name": "Advice", "meaning": "The concrete action or stance the reading recommends"}
+    ]
+  },
+  {
+    "id": "reflection",
+    "name": "Reflection Cross",
+    "cards": 5,
+    "description": "A cross-shaped self-examination of behavior patterns, shadow aspects and emotional triggers.",
+    "positions": [
+      {"name": "Core", "meaning": "The central inner state under examination"},
+      {"name": "Behavior Patterns", "meaning": "The recurring behavior the querent keeps repeating"},
+      {"name": "Shadow Side", "meaning": "What is denied, hidden or projected onto others"},
+      {"name": "Emotional Triggers", "meaning": "What sets off the pattern and feeds the shadow"},
+      {"name": "Outcome / Lesson", "meaning": "The lesson this configuration is asking to be learned"}
+    ]
+  },
+  {
+    "id": "deep-intuitive",
+    "name": "Deep Intuitive",
+    "cards": 7,
+    "description": "Expert mode: a dense seven-card reading weaving past foundations, hidden currents and direction.",
+    "warning": "This spread produces a dense, multi-layered reading that can be cognitively overwhelming. Confirm the querent is ready; otherwise suggest the 3-card or 5-card spread instead.",
+    "positions": [
+      {"name": "Heart of the Question", "meaning": "What the question is really about beneath its wording"},
+      {"name": "Past Foundation", "meaning": "The root in the past that still feeds the situation"},
+      {"name": "Hidden Influences", "meaning": "Currents at work that the querent does not consciously see"},
+      {"name": "Conscious Focus", "meaning": "What the querent believes the situation is about"},
+      {"name": "Obstacle", "meaning": "The main resistance standing in the way"},
+      {"name": "Advice", "meaning": "The stance or action the cards point toward"},
+      {"name": "Likely Direction", "meaning": "Where the current course leads if nothing changes"}
+    ]
+  },
+  {
+    "id": "celtic-cross",
+    "name": "Celtic Cross",
+    "cards": 10,
+    "description": "The classic ten-card deep dive into a situation and its trajectory.",
+    "positions": [
+      {"name": "General Atmosphere", "meaning": "The overall energy surrounding the situation"},
+      {"name": "Opposing Forces", "meaning": "What crosses or challenges the situation"},
+      {"name": "Foundation", "meaning": "The distant past and root causes beneath the situation"},
+      {"name": "Recent Past", "meaning": "What is just leaving or has recently shaped events"},
+      {"name": "Possible Future", "meaning": "What may come if current energies unfold"},
+      {"name": "Near Future", "meaning": "What is about to enter the situation"},
+      {"name": "Querent's Attitude", "meaning": "How the querent positions themselves in the situation"},
+      {"name": "Environment", "meaning": "The influence of people and circumstances around the querent"},
+      {"name": "Hopes and Fears", "meaning": "What the querent hopes for and dreads, often intertwined"},
+      {"name": "Final Outcome", "meaning": "The synthesis toward which the whole reading points"}
+    ]
+  },
+  {
+    "id": "horoscope",
+    "name": "Horoscope",
+    "cards": 12,
+    "description": "One card for each of the twelve astrological houses, mapping every life area.",
+    "requires_method": "horoscope",
+    "positions": [
+      {"name": "1st House", "meaning": "Self, identity and outward presence"},
+      {"name": "2nd House", "meaning": "Resources, money and personal values"},
+      {"name": "3rd House", "meaning": "Communication, siblings and immediate surroundings"},
+      {"name": "4th House", "meaning": "Home, family and inner roots"},
+      {"name": "5th House", "meaning": "Creativity, pleasure and romance"},
+      {"name": "6th House", "meaning": "Work, routines and health"},
+      {"name": "7th House", "meaning": "Partnerships and one-to-one relationships"},
+      {"name": "8th House", "meaning": "Transformation, shared resources and endings"},
+      {"name": "9th House", "meaning": "Beliefs, learning and distant horizons"},
+      {"name": "10th House", "meaning": "Career, reputation and public role"},
+      {"name": "11th House", "meaning": "Friends, community and future hopes"},
+      {"name": "12th House", "meaning": "The subconscious, the hidden and what is being released"}
+    ]
+  },
+  {
+    "id": "tree-of-life",
+    "name": "Tree of Life",
+    "cards": 10,
+    "description": "One card for each of the ten Sephiroth, reading the situation across the Kabbalistic tree.",
+    "requires_method": "tree_of_life",
+    "positions": [
+      {"name": "Kether", "meaning": "The spiritual essence and highest purpose of the matter"},
+      {"name": "Chokmah", "meaning": "The raw creative force driving it"},
+      {"name": "Binah", "meaning": "The structure, limits and understanding shaping it"},
+      {"name": "Chesed", "meaning": "Where expansion, generosity and opportunity flow"},
+      {"name": "Geburah", "meaning": "Where discipline, severity or necessary cutting acts"},
+      {"name": "Tiphareth", "meaning": "The heart of the matter and its point of balance"},
+      {"name": "Netzach", "meaning": "Desires, emotions and instinctive drives"},
+      {"name": "Hod", "meaning": "Thoughts, words and how the matter is rationalized"},
+      {"name": "Yesod", "meaning": "The subconscious foundation and imagination beneath it"},
+      {"name": "Malkuth", "meaning": "How it all lands in material, everyday reality"}
+    ]
+  }
+]

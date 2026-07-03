@@ -1,0 +1,579 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "slug": "fool",
+    "arcana": "major",
+    "element": "air"
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "slug": "magician",
+    "arcana": "major",
+    "element": "air",
+    "thoth_name": "The Magus"
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "slug": "high_priestess",
+    "arcana": "major",
+    "element": "water",
+    "thoth_name": "The Priestess"
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "slug": "empress",
+    "arcana": "major",
+    "element": "earth"
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "slug": "emperor",
+    "arcana": "major",
+    "element": "fire"
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "slug": "hierophant",
+    "arcana": "major",
+    "element": "earth"
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "slug": "lovers",
+    "arcana": "major",
+    "element": "air"
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "slug": "chariot",
+    "arcana": "major",
+    "element": "water"
+  },
+  {
+    "id": 8,
+    "name": "Strength",
+    "slug": "strength",
+    "arcana": "major",
+    "element": "fire",
+    "thoth_name": "Lust"
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "slug": "hermit",
+    "arcana": "major",
+    "element": "earth"
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "slug": "wheel_of_fortune",
+    "arcana": "major",
+    "element": "fire",
+    "thoth_name": "Fortune"
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "slug": "justice",
+    "arcana": "major",
+    "element": "air",
+    "thoth_name": "Adjustment"
+  },
+  {
+    "id": 12,
+    "name": "The Hanged Man",
+    "slug": "hanged_man",
+    "arcana": "major",
+    "element": "water"
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "slug": "death",
+    "arcana": "major",
+    "element": "water"
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "slug": "temperance",
+    "arcana": "major",
+    "element": "fire",
+    "thoth_name": "Art"
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "slug": "devil",
+    "arcana": "major",
+    "element": "earth"
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "slug": "tower",
+    "arcana": "major",
+    "element": "fire"
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "slug": "star",
+    "arcana": "major",
+    "element": "air"
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "slug": "moon",
+    "arcana": "major",
+    "element": "water"
+  },
+  {
+    "id": 19,
+    "name": "The Sun",
+    "slug": "sun",
+    "arcana": "major",
+    "element": "fire"
+  },
+  {
+    "id": 20,
+    "name": "Judgement",
+    "slug": "judgement",
+    "arcana": "major",
+    "element": "fire",
+    "thoth_name": "The Aeon"
+  },
+  {
+    "id": 21,
+    "name": "The World",
+    "slug": "world",
+    "arcana": "major",
+    "element": "earth",
+    "thoth_name": "The Universe"
+  },
+  {
+    "id": 22,
+    "name": "Ace of Wands",
+    "slug": "ace_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 23,
+    "name": "Two of Wands",
+    "slug": "two_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 24,
+    "name": "Three of Wands",
+    "slug": "three_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 25,
+    "name": "Four of Wands",
+    "slug": "four_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 26,
+    "name": "Five of Wands",
+    "slug": "five_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 27,
+    "name": "Six of Wands",
+    "slug": "six_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 28,
+    "name": "Seven of Wands",
+    "slug": "seven_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 29,
+    "name": "Eight of Wands",
+    "slug": "eight_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 30,
+    "name": "Nine of Wands",
+    "slug": "nine_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 31,
+    "name": "Ten of Wands",
+    "slug": "ten_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 32,
+    "name": "Page of Wands",
+    "slug": "page_of_wands",
+    "arcana": "minor",
+    "element": "fire",
+    "thoth_name": "Princess of Wands"
+  },
+  {
+    "id": 33,
+    "name": "Knight of Wands",
+    "slug": "knight_of_wands",
+    "arcana": "minor",
+    "element": "fire",
+    "thoth_name": "Prince of Wands"
+  },
+  {
+    "id": 34,
+    "name": "Queen of Wands",
+    "slug": "queen_of_wands",
+    "arcana": "minor",
+    "element": "fire"
+  },
+  {
+    "id": 35,
+    "name": "King of Wands",
+    "slug": "king_of_wands",
+    "arcana": "minor",
+    "element": "fire",
+    "thoth_name": "Knight of Wands"
+  },
+  {
+    "id": 36,
+    "name": "Ace of Cups",
+    "slug": "ace_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 37,
+    "name": "Two of Cups",
+    "slug": "two_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 38,
+    "name": "Three of Cups",
+    "slug": "three_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 39,
+    "name": "Four of Cups",
+    "slug": "four_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 40,
+    "name": "Five of Cups",
+    "slug": "five_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 41,
+    "name": "Six of Cups",
+    "slug": "six_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 42,
+    "name": "Seven of Cups",
+    "slug": "seven_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 43,
+    "name": "Eight of Cups",
+    "slug": "eight_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 44,
+    "name": "Nine of Cups",
+    "slug": "nine_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 45,
+    "name": "Ten of Cups",
+    "slug": "ten_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 46,
+    "name": "Page of Cups",
+    "slug": "page_of_cups",
+    "arcana": "minor",
+    "element": "water",
+    "thoth_name": "Princess of Cups"
+  },
+  {
+    "id": 47,
+    "name": "Knight of Cups",
+    "slug": "knight_of_cups",
+    "arcana": "minor",
+    "element": "water",
+    "thoth_name": "Prince of Cups"
+  },
+  {
+    "id": 48,
+    "name": "Queen of Cups",
+    "slug": "queen_of_cups",
+    "arcana": "minor",
+    "element": "water"
+  },
+  {
+    "id": 49,
+    "name": "King of Cups",
+    "slug": "king_of_cups",
+    "arcana": "minor",
+    "element": "water",
+    "thoth_name": "Knight of Cups"
+  },
+  {
+    "id": 50,
+    "name": "Ace of Swords",
+    "slug": "ace_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 51,
+    "name": "Two of Swords",
+    "slug": "two_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 52,
+    "name": "Three of Swords",
+    "slug": "three_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 53,
+    "name": "Four of Swords",
+    "slug": "four_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 54,
+    "name": "Five of Swords",
+    "slug": "five_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 55,
+    "name": "Six of Swords",
+    "slug": "six_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 56,
+    "name": "Seven of Swords",
+    "slug": "seven_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 57,
+    "name": "Eight of Swords",
+    "slug": "eight_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 58,
+    "name": "Nine of Swords",
+    "slug": "nine_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 59,
+    "name": "Ten of Swords",
+    "slug": "ten_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 60,
+    "name": "Page of Swords",
+    "slug": "page_of_swords",
+    "arcana": "minor",
+    "element": "air",
+    "thoth_name": "Princess of Swords"
+  },
+  {
+    "id": 61,
+    "name": "Knight of Swords",
+    "slug": "knight_of_swords",
+    "arcana": "minor",
+    "element": "air",
+    "thoth_name": "Prince of Swords"
+  },
+  {
+    "id": 62,
+    "name": "Queen of Swords",
+    "slug": "queen_of_swords",
+    "arcana": "minor",
+    "element": "air"
+  },
+  {
+    "id": 63,
+    "name": "King of Swords",
+    "slug": "king_of_swords",
+    "arcana": "minor",
+    "element": "air",
+    "thoth_name": "Knight of Swords"
+  },
+  {
+    "id": 64,
+    "name": "Ace of Pentacles",
+    "slug": "ace_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Ace of Disks"
+  },
+  {
+    "id": 65,
+    "name": "Two of Pentacles",
+    "slug": "two_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Two of Disks"
+  },
+  {
+    "id": 66,
+    "name": "Three of Pentacles",
+    "slug": "three_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Three of Disks"
+  },
+  {
+    "id": 67,
+    "name": "Four of Pentacles",
+    "slug": "four_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Four of Disks"
+  },
+  {
+    "id": 68,
+    "name": "Five of Pentacles",
+    "slug": "five_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Five of Disks"
+  },
+  {
+    "id": 69,
+    "name": "Six of Pentacles",
+    "slug": "six_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Six of Disks"
+  },
+  {
+    "id": 70,
+    "name": "Seven of Pentacles",
+    "slug": "seven_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Seven of Disks"
+  },
+  {
+    "id": 71,
+    "name": "Eight of Pentacles",
+    "slug": "eight_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Eight of Disks"
+  },
+  {
+    "id": 72,
+    "name": "Nine of Pentacles",
+    "slug": "nine_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Nine of Disks"
+  },
+  {
+    "id": 73,
+    "name": "Ten of Pentacles",
+    "slug": "ten_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Ten of Disks"
+  },
+  {
+    "id": 74,
+    "name": "Page of Pentacles",
+    "slug": "page_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Princess of Disks"
+  },
+  {
+    "id": 75,
+    "name": "Knight of Pentacles",
+    "slug": "knight_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Prince of Disks"
+  },
+  {
+    "id": 76,
+    "name": "Queen of Pentacles",
+    "slug": "queen_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Queen of Disks"
+  },
+  {
+    "id": 77,
+    "name": "King of Pentacles",
+    "slug": "king_of_pentacles",
+    "arcana": "minor",
+    "element": "earth",
+    "thoth_name": "Knight of Disks"
+  }
+]
